@@ -1,5 +1,6 @@
 ## Selamat Datang di Artikel Pertama saya
   Jangan lupa kita bersyukur atas rahmat tuhan yang maha asyik untuk kesehatan dan kehangatan kopi pada hari ini. kali ini kita belajar dasar teori apa itu vagrant dan fungsinya..
+  Vagrant sendiri adalah sebuah software besutan hashicorp yang menggunakan teknologi virtual machine atau nama kerennya VM dimana kita dapat membuat lab development portable, lebih konsisten dan fleksibel.
 
 ### Markdown
 
