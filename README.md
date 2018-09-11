@@ -9,6 +9,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Langkah pertama Download vagrant dari vagrant.io
 
+https://www.vagrantup.com/downloads.html download sesuai os, kali ini penulis menggunakan ubuntu
+
 $ sudo apt install vagrant
 $ vagrant init
 $ vagrant box add ubuntu/xenial64
