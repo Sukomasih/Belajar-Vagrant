@@ -1,22 +1,20 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Sukomasih/Belajar-Vagrant/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Selamat Datang di Artikel Pertama saya
+  Jangan lupa kita bersyukur atas rahmat tuhan yang maha asyik untuk kesehatan dan kehangatan kopi pada hari ini. kali ini kita belajar dasar teori apa itu vagrant dan fungsinya..
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Langkah pertama Download vagrant dari vagrant.io
 
-# Header 1
-## Header 2
-### Header 3
+$ sudo apt install vagrant
+$ vagrant init
+$ vagrant box add ubuntu/xenial64
 
-- Bulleted
-- List
+- Menambahkan vagrant ke daftar aplikasi
+- 'init' menambahkan Vagrantfile ke directory kita
+- Menambahkan os baru ke mesin 
 
 1. Numbered
 2. List
